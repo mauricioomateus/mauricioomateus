@@ -7,7 +7,7 @@
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mauricioomateus&show_icons=true&theme=dracula" />
-<!--  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioomateus&layout=compact&langs_count=16&theme=dracula" /> -->
+<!--  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioomateus&layout=compact&langs_count=16&theme=dracula&PAT_1=" /> -->
 </div> 
 
 ---
