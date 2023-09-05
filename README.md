@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauricioomateus
 - 👀 I’m interested in ... Cybersecurity
-- 🌱 I’m currently learning ... Pentest
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Scripts e exploits
 
 ![EgUx](https://user-images.githubusercontent.com/18623418/187779334-5536deff-f592-469b-9fe4-71457a840639.gif)
