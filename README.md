@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @mauricioomateus
+About me?
 - 👀 I’m interested in ... Cybersecurity
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Scripts e exploits
+
 
 <!-- ![EgUx](https://user-images.githubusercontent.com/18623418/187779334-5536deff-f592-469b-9fe4-71457a840639.gif) -->
 <!--  ![EgUx](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif) -->
