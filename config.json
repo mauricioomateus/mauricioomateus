@@ -1,0 +1,32 @@
+{
+  "usuario_github": "mauricioomateus",
+  "titulo": "mauricio@mateus",
+  "nascimento": "2000-01-01",
+  "foto": "",
+  "largura_ascii": 60,
+  "estilo_ascii": "luz",
+  "limiar": 0.30,
+  "secoes": [
+    [
+      ["OS", "Windows 11, Kali Linux, Android"],
+      ["Uptime", "{uptime}"],
+      ["Host", "Salvador - BA, Brasil"],
+      ["Kernel", "Cybersecurity Enthusiast"],
+      ["IDE", "VSCode, Vim"]
+    ],
+    [
+      ["Languages.Programming", "Python, Shell, JavaScript"],
+      ["Languages.Computer", "HTML, CSS, JSON, YAML"],
+      ["Languages.Real", "Português, English"]
+    ],
+    [
+      ["Hobbies.Software", "Pentest, Fuzzing, CTFs"],
+      ["Hobbies.Hardware", "Montar e tunar PCs"]
+    ]
+  ],
+  "contato": [
+    ["Email.Personal", "mauriciomateus_13@hotmail.com"],
+    ["LinkedIn", "seu-linkedin"],
+    ["Discord", "seu-discord"]
+  ]
+}
