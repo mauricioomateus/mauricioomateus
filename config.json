@@ -10,7 +10,7 @@
     [
       ["OS", "Windows 11, Kali Linux, Android"],
       ["Uptime", "{uptime}"],
-      ["Host", "Salvador - BA, Brasil"],
+      ["Host", "192.168.0.1 - BA, Brasil"],
       ["Kernel", "Cybersecurity Enthusiast"],
       ["IDE", "VSCode, Vim"]
     ],
@@ -25,8 +25,8 @@
     ]
   ],
   "contato": [
-    ["Email.Personal", "mauriciomateus_13@hotmail.com"],
-    ["LinkedIn", "seu-linkedin"],
-    ["Discord", "seu-discord"]
+    ["Email.Personal", "Error_404@hotmail.com"],
+    ["LinkedIn", ";)"],
+    ["Discord", "=)"]
   ]
 }
